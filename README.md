@@ -1,6 +1,6 @@
 # slider
 
-[demo project]https://mohammadrezaafroozi.github.io/slider/)
+[demo project](https://mohammadrezaafroozi.github.io/slider/)
 
 
 - Developed by MohammadReza Afroozi
